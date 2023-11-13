@@ -1,0 +1,14 @@
+PLINK v1.90b6.21 64-bit (19 Oct 2020)
+Options in effect:
+  --bfile wgsMHC.4digit.bglv4
+  --recode vcf
+
+Hostname: ip-192-168-1-154.ec2.internal
+Working directory: /Users/khadi/git/HLA-TAPAS/resources
+Start time: Tue Oct 31 15:42:24 2023
+
+Random number seed: 1698781344
+32768 MB RAM detected; reserving 16384 MB for main workspace.
+Error: Failed to open wgsMHC.4digit.bglv4.bed.
+
+End time: Tue Oct 31 15:42:24 2023

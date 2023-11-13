@@ -1,0 +1,12 @@
+PLINK v1.90b6.21 64-bit (19 Oct 2020)
+Options in effect:
+  --bgl
+
+Hostname: ip-192-168-1-154.ec2.internal
+Working directory: /Users/khadi/git/HLA-TAPAS/dependency
+Start time: Tue Oct 31 15:38:26 2023
+
+Error: Unrecognized flag ('--bgl').
+For more information, try "plink --help <flag name>" or "plink --help | more".
+
+End time: Tue Oct 31 15:38:26 2023

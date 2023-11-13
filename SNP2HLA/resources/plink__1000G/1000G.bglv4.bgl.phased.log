@@ -1,0 +1,13 @@
+PLINK v1.90b6.21 64-bit (19 Oct 2020)
+Options in effect:
+  --vcf /Users/khadi/git/HLA-TAPAS/resources/plink__1000G/1000G.bglv4.bgl.phased.vcf.gz
+
+Hostname: ip-192-168-1-145.ec2.internal
+Working directory: /Users/khadi/git/HLA-TAPAS/resources/plink__1000G
+Start time: Mon Nov  6 16:41:35 2023
+
+Random number seed: 1699306895
+32768 MB RAM detected; reserving 16384 MB for main workspace.
+--vcf: plink.bed + plink.bim + plink.fam written.
+
+End time: Mon Nov  6 16:41:39 2023
